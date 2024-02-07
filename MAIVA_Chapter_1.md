@@ -1160,31 +1160,17 @@ Many thanks and much appreciation to the following for their
 contributions and oversight of this effort!
 
 - Willie Ahlers
-
 - Francois Magnin
-
+- Kimberly O'Donoghue
 - Ricardo Sousa
-
-- Sofia
-  Noejovich
-
+- Sofia Noejovich
 - Erica Lawrie
-
 - Karsten Strøbæk
-
 - Rick Hines
-
 - Todd Ray
-
 - Philip Carpenter
-
 - Ravi Thoutireddy
-
-- Liana
-  Napalkova
-
+- Liana Napalkova
 - Michele Usuelli
-
 - Amit Tyagi
-
 - Carlo Binda
