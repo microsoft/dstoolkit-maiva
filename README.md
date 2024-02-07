@@ -1,6 +1,6 @@
 # MAIVA - Microsoft AI Value Accelerator Playbook
 
-<img src="./media/graphic 4 - 2024-01-25 .png"  style="width:6.5in;height:3.64653in"
+<img src="./media/graphic 4- 2024-01-25 .png"  style="width:6.5in;height:3.64653in"
 alt="Overview of Microsoft AI Value Accelerator" />
 
 **[Chapter 1 Overview](./MAIVA_Chapter_1.md)**
