@@ -1,6 +1,6 @@
 # MAIVA - Microsoft AI Value Accelerator Playbook
 
-** Chapter 1 Overview **
+**Chapter 1 Overview**
 
 > This repository hosts the first chapter of a playbook dedicated to helping company IT departments effectively scale their AI initiatives. The playbook aims to provide a structured guide on managing AI investment ?> portfolios to maximize returns. It introduces a framework for industrializing AI within organizations and sets the groundwork for more detailed and technical discussions in future chapters.
 
