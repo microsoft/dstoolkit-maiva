@@ -10,9 +10,8 @@ alt="A screen shot of a computer Description automatically generated" /></p>
 
 [Context for MAIVA](#context-for-maiva)
 
-[What good looks like](#what-good-looks-like)
-
-[Why is it so hard to achieve? (Lessons learned)](#why-is-it-so-hard-to-achieve-lessons-learned)
+- [What good looks like](#what-good-looks-like)
+- [Why is it so hard to achieve? (Lessons learned)](#why-is-it-so-hard-to-achieve-lessons-learned)
 
 [Enabling the change](#enabling-the-change)
 
@@ -545,12 +544,12 @@ users to use the data to drive innovation and value. This strategy
 reflects that the driving force of data is giving power to the users and
 control to the data owners.
 
-> *Controlled at the core* : Data storage is either centralized or
+> *Disciplined at the core* : Data storage is either centralized or
 > de-centralized with common security, quality and operational and
-> governance rules ensuring data is reliable
+> governance rules ensuring data is reliable.
 >
-> *Flexibility at the edge:* meaning business users can simply consume
-> this data to solve business problem and address new opportunities
+> *Flexibility at the edge:*  business users can create their own data products, using configurable and reusable services or simply consume
+> this data to solve business problem and address new opportunities.
 
 ## MAIVA – Develop, Deploy & Operationalize AI/ML Use Case
 
