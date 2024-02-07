@@ -1,14 +1,36 @@
-# Project
+# MAIVA - Microsoft AI Value Accelerator Playbook
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+<img src="./media/graphic 4- 2024-01-25 .png"  style="width:6.5in;height:3.64653in"
+alt="Overview of Microsoft AI Value Accelerator" />
 
-As the maintainer of this project, please make a few updates:
+**[Chapter 1 Overview](./MAIVA_Chapter_1.md)**
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+> This repository hosts the first chapter of a playbook dedicated to helping company IT departments effectively scale their AI initiatives. The playbook aims to provide a structured guide on managing AI investment
+> portfolios to maximize returns. It introduces a framework for industrializing AI within organizations and sets the groundwork for more detailed and technical discussions in future chapters.
+
+**Highlights:**
+
+- Introduction to the playbook's purpose and structure.
+- Overview of the framework for industrializing AI.
+- Scope definition for scaling AI initiatives within companies.
+
+This playbook will be made available to through GitHub as a guide to any company endeavoring to manage the AI investment portfolio to optimize return on those investments. The playbook will be published in multiple chapters of increasing depth and detail. Each chapter will be published to a separate github repo, making its maintenance manageable. This first chapter sets the stage and scope for a framework to industrialize AI. Subsequent chapters will take on the technical depth of architecture (both AI platform and data platform), security, responsible AI, and so on.
+
+**Transparency**
+
+Turns out the voice of an author matters, even in a dry professional journal. We were reminded of this truth as we created this playbook.
+This playbook was constructed in part *with* AI.
+
+The structure and scope were fully defined *before* engaging AI based on technical and market expertise and based on executing AI initiatives at many enterprises globally for years. The scope of the playbook was originally authored in a series of presentations. Most of the text itself was authored by a team of contributors *before* AI was engaged.
+
+On a couple of sections in which writer’s block set in for longer than a few minutes and couldn’t be broken with pen to paper, AI was solicited for help as starter. In those cases, the prose provided by AI was acceptable for breaking the blockage and raising key components for consideration, but in all cases had to be re-written to capture the tone and intent of the author.
+
+In some cases, AI was asked for suggestions to tighten or edit existing sections. The recommended edits were again not accepted without further change to tone.
+
+Perhaps more important than the contributions of AI, we acknowledge that we have leveraged several Microsoft resources that are widely known and recognized as authoritative. For example, we have leveraged the construct and some assets of the Microsoft approach to Responsible AI to illustrate the importance of this policy and practice. Even MAIVA itself is a Microsoft approach to AI acceleration.
+
+We have provided a list of resources and links at the end of the playbook that may be helpful.
+
 
 ## Contributing
 
