@@ -158,10 +158,8 @@ creating a programmatic approach to ideation, intake, experimentation,
 prioritization, development and deployment, and governance and
 performance monitoring.
 
-<img src="./media/graphic 1 - 2024-01-25 .png"  style="width:6.5in;height:3.64653in"
+<img src="./media/graphic 1 - 2024-01-25 .png" 
 alt="A screen shot of a computer Description automatically generated" />
-
-  
 
 Through this framework each AI initiative will have a common journey
 within a structured operating model of strategy/planning, data &
@@ -220,14 +218,13 @@ To address some of these lessons learned, the Finance organization in
 Microsoft adopted this approach to ground their investments in AI and
 drive optimal change:
 
-<img src="./media/graphic 2- 2024-01-25 .png" style="width:6.5in;height:3.40833in"
+<img src="./media/graphic 2- 2024-01-25 .png" 
 alt="A screenshot of a computer Description automatically generated" />
 
 # Enabling the change
 
-
-<img src="./media/IDC.png" style="width:6.5in;height:3.65625in" />
-
+<p align="centre"><img src="./media/IDC.png"
+alt="A screenshot of a computer Description automatically generated" /></p>
 
 A recent study from IDC shares the attributes of enterprises considered
 to be leaders in AI; the inference is that taking the lead with AI is as
@@ -294,7 +291,7 @@ system.
 
 ## Approach to change management
 
-<img src="./media/graphic 3 2024-01-25 .png" style="width:6.5in;height:3.40694in"
+<img src="./media/graphic 3 2024-01-25 .png" 
 alt="A black background with text and icons Description automatically generated with medium confidence" />
 
 #  Framework to Industrialize AI
@@ -309,7 +306,7 @@ are measured both to provide assurance of intended performance and to
 provide visibility to future drift. The cycle is closed with feedback
 loops from the users to developers driving continuous value.
 
-<img src="./media/graphic 4- 2024-01-25 .png" style="width:6.5in;height:3.23681in"
+<img src="./media/graphic 4- 2024-01-25 .png" 
 alt="A screenshot of a computer Description automatically generated" />
 
 Let’s dig into each area of MAIVA.
@@ -399,7 +396,7 @@ business strategy and the return expected from qualified and prioritized
 use cases. Experimentation at the front end will identify expected
 return, feasibility, and risk mitigation.
 
-<img src="./media/graphic 5- 2024-01-25 .png" style="width:6.5in;height:3.56181in"
+<img src="./media/graphic 5- 2024-01-25 .png" 
 alt="A diagram of a diagram Description automatically generated" />
 
 This approach requires a series of nested cycles of experimentation:
@@ -426,7 +423,7 @@ build/deploy - monitor – feedback – use case iteration.
 
 **Lifecycle of an AI Investment**
 
-<img src="./media/graphic 6- 2024-01-25.png" style="width:6.5in;height:3.02292in"
+<img src="./media/graphic 6- 2024-01-25.png" 
 alt="A diagram of a product scope Description automatically generated" />
 
 **MAIVA – Experimentation**
@@ -555,7 +552,7 @@ control to the data owners.
 
 **Strategic Outcomes Enabled by the Journey of Every Use Case**
 
-<img src="./media/graphic 7- 2024-01-25 .png" style="width:6.5in;height:3.32639in"
+<img src="./media/graphic 7- 2024-01-25 .png" 
 alt="A screenshot of a computer screen Description automatically generated" />
 
 As stated, the enterprise strategy informs the line of business strategy
@@ -597,7 +594,7 @@ the MAIVA framework, simplifying the development and deployment of the
 use case to broaden the focus to governance and operationalization of
 AI.
 
-<img src="./media/graphic 9- 2024-01-25 .png" style="width:6.5in;height:3.45486in"
+<img src="./media/graphic 9- 2024-01-25 .png" 
 alt="A screenshot of a computer Description automatically generated" />
 
 It is important to compartmentalize the core AI technical capabilities
@@ -620,7 +617,7 @@ The picture below shows the iterative cycle that enterprise teams follow
 to structure their delivery of ML and AI solutions across Process,
 Platform and People:
 
-<img src="./media/graphic 8- 2024-01-25 .png" style="width:6.5in;height:3.56806in"
+<img src="./media/graphic 8- 2024-01-25 .png" 
 alt="A diagram of a business value Description automatically generated" />
 
 The lifecycle for AI resources must be managed consistently with all
@@ -691,7 +688,7 @@ the enterprise:
 Below is a diagram that illustrates the sequence of these MLOps
 activities:
 
-<img src="./media/MLOpsActivities.png" style="width:5in;height:1.51042in"
+<img src="./media/MLOpsActivities.png"
 alt="A diagram of a model Description automatically generated" />
 
 The goal is to accelerate the adoption of ML/AI in software solutions
@@ -722,7 +719,7 @@ currently happening between MLOps and LLMOps.
 
 **Paradigm Shift from MLOps to LLMOps**
 
-<img src="./media/graphic 10- 2024-01-25 .png" style="width:6.5in;height:2.96458in"
+<img src="./media/graphic 10- 2024-01-25 .png"
 alt="A screenshot of a computer program Description automatically generated" />
 
 As generative AI continues to evolve, standards for operationalization
@@ -732,7 +729,7 @@ AI use cases.
 
 **GenAI Lifecycle**
 
-<img src="./media/graphic 12- 2024-01-25 .png" style="width:6.5in;height:3.55417in"
+<img src="./media/graphic 12- 2024-01-25 .png"
 alt="A computer screen with text and colorful arrows Description automatically generated" />
 
 This diagram presents the lifecycle of GenAI which consists of the
@@ -814,7 +811,7 @@ function will also include alignment to **strategy**, adherence to
 business **data strategy** and **platform roadmap**, and line of
 business **change management.**
 
-<img src="./media/graphic 13- 2024-01-25 .png" style="width:6.5in;height:3.75417in"
+<img src="./media/graphic 13- 2024-01-25 .png"
 alt="A screenshot of a computer Description automatically generated" />
 
 The governance board should meet on a regular basis and should include
@@ -873,7 +870,7 @@ including performance monitoring, reporting and anomaly detection and
 alerting. The target here is to establish clear lines of feedback to the
 intake, closing the cycle of the MAIVA system.
 
-<img src="./media/graphic 14- 2024-01-25 .png" style="width:6.5in;height:3.59028in" />
+<img src="./media/graphic 14- 2024-01-25 .png" />
 
 # Security & Responsible AI considerations in AI governance
 
@@ -893,7 +890,7 @@ these principles and supporting standards within the Office of
 Responsible AI and we have expanded awareness and use of these
 principles in our products, services and commercial lines of business.
 
-<img src="./media/graphic 15- 2024-01-25 .png" style="width:6.5in;height:3.54236in" />
+<img src="./media/graphic 15- 2024-01-25 .png"/>
 
 The principles and standards of responsible AI use and development
 should be established by a separate and centralized enterprise
@@ -1051,7 +1048,7 @@ Given the process illustrated in the Operating Model section, there will
 be several roles required as aligned to the primary components of the
 framework:
 
-<img src="./media/graphic 20- 2024-01-31 .png" style="width:6.5in;height:3.53264in"
+<img src="./media/graphic 20- 2024-01-31 .png"
 alt="A screenshot of a computer Description automatically generated" />
 
 Required roles, filled by specific resources
@@ -1119,7 +1116,7 @@ communication to employees will be essential. Additionally, project
 management support will be required to structure the inaugural build
 project and execution.
 
-<img src="./media/graphic 21- 2024-01-31 .png" style="width:6.5in;height:3.54653in"
+<img src="./media/graphic 21- 2024-01-31 .png"
 alt="A screenshot of a computer Description automatically generated" />
 
 # Resources
