@@ -6,45 +6,45 @@
 
 ## Table of Contents
 
-[I. Introduction](#introduction)
+[Introduction](#introduction)
 
-- [a. How to use this playbook](#how-to-use-this-playbook)
-- [b. Why GitHub](#why-github)
+- [How to use this playbook](#how-to-use-this-playbook)
+- [Why GitHub](#why-github)
 
-[1. Context for MAIVA](#context-for-maiva)
+[Context for MAIVA](#context-for-maiva)
 
-[2. What good looks like](#what-good-looks-like)
+[What good looks like](#what-good-looks-like)
 
-[3. Why is it so hard to achieve? (Lessons learned)](#why-is-it-so-hard-to-achieve-lessons-learned)
+[Why is it so hard to achieve? (Lessons learned)](#why-is-it-so-hard-to-achieve-lessons-learned)
 
-[4. Enabling the change](#enabling-the-change)
+[Enabling the change](#enabling-the-change)
 
-- [a. Executive role in culture](#executive-role-in-culture)
-- [b. Systems thinking underpinning culture](#systems-thinking-underpinning-culture)
-- [c. Being a data-driven culture](#being-a-data-driven-culture)
-- [d. Approach to change management](#approach-to-change-management)
+- [Executive role in culture](#executive-role-in-culture)
+- [Systems thinking underpinning culture](#systems-thinking-underpinning-culture)
+- [Being a data-driven culture](#being-a-data-driven-culture)
+- [Approach to change management](#approach-to-change-management)
 
-[4. Framework to Industrialize AI](#framework-to-industrialize-ai)
+[Framework to Industrialize AI](#framework-to-industrialize-ai)
 
-- [a. MAIVA – AI strategy and platform planning](#maiva-ai-strategy-and-platform-planning)
-- [b. MAIVA – Innovation, Intake, Experimentation](#maiva-innovation-intake-experimentation)
-- [c. MAIVA – the AI platform, the data platform, and the data (perpetual data strategy)](#maiva-the-ai-platform-the-data-platform-and-the-data-perpetual-data-strategy)
-- [e. MAIVA – Develop, Deploy & Operationalize AI/ML Use Case](#maiva-develop-deploy-operationalize-aiml-use-case)
+- [MAIVA – AI strategy and platform planning](#maiva-ai-strategy-and-platform-planning)
+- [MAIVA – Innovation, Intake, Experimentation](#maiva-innovation-intake-experimentation)
+- [MAIVA – the AI platform, the data platform, and the data (perpetual data strategy)](#maiva-the-ai-platform-the-data-platform-and-the-data-perpetual-data-strategy)
+- [MAIVA – Develop, Deploy & Operationalize AI/ML Use Case](#maiva-develop-deploy-operationalize-aiml-use-case)
 
-[5. MAIVA Operating model process and roadmap](#maiva-operating-model-process-and-roadmap)
+[MAIVA Operating model process and roadmap](#maiva-operating-model-process-and-roadmap)
 
-[6. Security & Responsible AI considerations in AI governance](#security-responsible-ai-considerations-in-ai-governance)
+[Security & Responsible AI considerations in AI governance](#security-responsible-ai-considerations-in-ai-governance)
 
-[7. Economics of governance framework (or the opportunity cost)](#economics-of-governance-framework-or-the-opportunity-cost)
+[Economics of governance framework (or the opportunity cost)](#economics-of-governance-framework-or-the-opportunity-cost)
 
-[8. Roles Supporting MAIVA](#roles-supporting-maiva)
+[Roles Supporting MAIVA](#roles-supporting-maiva)
 
-- [a. The ongoing framework](#the-ongoing-framework)
-- [b. The inaugural build](#the-inaugural-build)
+- [The ongoing framework](#the-ongoing-framework)
+- [The inaugural build](#the-inaugural-build)
 
-[9. Resources](#resources)
+[Resources](#resources)
 
-[10. Gratitude for contributors](#gratitude-for-contributors)
+[Gratitude for contributors](#gratitude-for-contributors)
 
 # Introduction
 
