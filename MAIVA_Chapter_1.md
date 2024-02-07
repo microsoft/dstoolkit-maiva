@@ -1,8 +1,5 @@
-# Microsoft AI Value Accelerator – MAIVA
-
-## A Playbook to Industrialize AI
-
-
+<p><img src="./media/Titel Graphic.png" 
+alt="A screen shot of a computer Description automatically generated" /></p>
 
 ## Table of Contents
 
@@ -725,6 +722,7 @@ models (LLM) or LLMOps. The diagram below summarizes the shift that is
 currently happening between MLOps and LLMOps.
 
 **Paradigm Shift from MLOps to LLMOps**
+
 <img src="./media/graphic 10- 2024-01-25 .png" style="width:6.5in;height:2.96458in"
 alt="A screenshot of a computer program Description automatically generated" />
 
@@ -734,6 +732,7 @@ emerge, we can illuminate what we know about the lifecycle of generative
 AI use cases.
 
 **GenAI Lifecycle**
+
 <img src="./media/graphic 12- 2024-01-25 .png" style="width:6.5in;height:3.55417in"
 alt="A computer screen with text and colorful arrows Description automatically generated" />
 
