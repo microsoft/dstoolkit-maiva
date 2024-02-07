@@ -1,51 +1,3 @@
-**Note**
-
-This playbook will be made available to through GitHub as a guide to any
-company endeavoring to manage the AI investment portfolio to optimize
-return on those investments.
-
-The playbook will be published in multiple chapters of increasing depth
-and detail. Each chapter will be published to a separate github repo,
-making its maintenance manageable.
-
-This first chapter sets the stage and scope for a framework to
-industrialize AI. Subsequent chapters will take on the technical depth
-of architecture (both AI platform and data platform), security,
-responsible AI, and so on.
-
-**Transparency**
-
-Turns out the voice of an author matters, even in a dry professional
-journal. We were reminded of this truth as we created this playbook.
-This playbook was constructed in part *with* AI.
-
-The structure and scope were fully defined *before* engaging AI based on
-technical and market expertise and based on executing AI initiatives at
-many enterprises globally for years. The scope of the playbook was
-originally authored in a series of presentations. Most of the text
-itself was authored by a team of contributors *before* AI was engaged.
-
-On a couple of sections in which writer’s block set in for longer than a
-few minutes and couldn’t be broken with pen to paper, AI was solicited
-for help as starter. In those cases, the prose provided by AI was
-acceptable for breaking the blockage and raising key components for
-consideration, but in all cases had to be re-written to capture the tone
-and intent of the author.
-
-In some cases, AI was asked for suggestions to tighten or edit existing
-sections. The recommended edits were again not accepted without further
-change to tone.
-
-Perhaps more important than the contributions of AI, we acknowledge that
-we have leveraged several Microsoft resources that are widely known and
-recognized as authoritative. For example, we have leveraged the
-construct and some assets of the Microsoft approach to Responsible AI to
-illustrate the importance of this policy and practice. Even MAIVA itself
-is a Microsoft approach to AI acceleration.
-
-We have provided a list of resources and links at the end of the
-playbook that may be helpful.
-
 # Microsoft AI Value Accelerator – MAIVA
 
 ## A Playbook to Industrialize AI
@@ -54,73 +6,45 @@ playbook that may be helpful.
 
 ## Table of Contents
 
-[I. Introduction [4](#introduction)]
+[I. Introduction](#introduction)
 
-[a. How to use this playbook
-[4](#how-to-use-this-playbook)]
+- [a. How to use this playbook](#how-to-use-this-playbook)
+- [b. Why GitHub](#why-github)
 
-[b. Why GitHub [4](#why-github)]
+[1. Context for MAIVA](#context-for-maiva)
 
-[1. Context for MAIVA [5](#context-for-maiva)]
+[2. What good looks like](#what-good-looks-like)
 
-[1. What good looks like
-[5](#what-good-looks-like)]
+[3. Why is it so hard to achieve? (Lessons learned)](#why-is-it-so-hard-to-achieve-lessons-learned)
 
-[2. Why is it so hard to achieve? (Lessons learned)
-[7](#why-is-it-so-hard-to-achieve-lessons-learned)]
+[4. Enabling the change](#enabling-the-change)
 
-[3. Enabling the change [9](#enabling-the-change)]
+- [a. Executive role in culture](#executive-role-in-culture)
+- [b. Systems thinking underpinning culture](#systems-thinking-underpinning-culture)
+- [c. Being a data-driven culture](#being-a-data-driven-culture)
+- [d. Approach to change management](#approach-to-change-management)
 
-[a. Executive role in culture
-[9](#executive-role-in-culture)](
+[4. Framework to Industrialize AI](#framework-to-industrialize-ai)
 
-[b. Systems thinking underpinning culture
-[10](#systems-thinking-underpinning-culture)]
+- [a. MAIVA – AI strategy and platform planning](#maiva-ai-strategy-and-platform-planning)
+- [b. MAIVA – Innovation, Intake, Experimentation](#maiva-innovation-intake-experimentation)
+- [c. MAIVA – the AI platform, the data platform, and the data (perpetual data strategy)](#maiva-the-ai-platform-the-data-platform-and-the-data-perpetual-data-strategy)
+- [e. MAIVA – Develop, Deploy & Operationalize AI/ML Use Case](#maiva-develop-deploy-operationalize-aiml-use-case)
 
-[c. Being a data-driven culture
-[10](#being-a-data-driven-culture)]
+[5. MAIVA Operating model process and roadmap](#maiva-operating-model-process-and-roadmap)
 
-[d. Approach to change management
-[10](#approach-to-change-management)]
+[6. Security & Responsible AI considerations in AI governance](#security-responsible-ai-considerations-in-ai-governance)
 
-[4. Framework to Industrialize AI
-[11](#framework-to-industrialize-ai)]
+[7. Economics of governance framework (or the opportunity cost)](#economics-of-governance-framework-or-the-opportunity-cost)
 
-[a. MAIVA – AI strategy and platform planning
-[11](#maiva-ai-strategy-and-platform-planning)]
+[8. Roles Supporting MAIVA](#roles-supporting-maiva)
 
-[b. MAIVA – Innovation, Intake, Experimentation
-[13](#maiva-innovation-intake-experimentation)]
+- [a. The ongoing framework](#the-ongoing-framework)
+- [b. The inaugural build](#the-inaugural-build)
 
-[c. MAIVA – the AI platform, the data platform, and the data (perpetual
-data strategy)
-[15](#maiva-the-ai-platform-the-data-platform-and-the-data-perpetual-data-strategy)]
+[9. Resources](#resources)
 
-[e. MAIVA – Develop, Deploy & Operationalize AI/ML Use Case
-[17](#maiva-develop-deploy-operationalize-aiml-use-case)]
-
-[5. MAIVA Operating model process and roadmap
-[24](#maiva-operating-model-process-and-roadmap)]
-
-[6. Security & Responsible AI considerations in AI governance
-[27](#security-responsible-ai-considerations-in-ai-governance)]
-
-[7. Economics of governance framework (or the opportunity cost)
-[29](#economics-of-governance-framework-or-the-opportunity-cost)]
-
-[8. Roles Supporting MAIVA
-[31](#roles-supporting-maiva)]
-
-[a. The ongoing framework
-[31](#the-ongoing-framework)]
-
-[b. The inaugural build
-[32](#the-inaugural-build)]
-
-[9. Resources [34](#resources)]
-
-[10. Gratitude for contributors
-[34](#gratitude-for-contributors)]
+[10. Gratitude for contributors](#gratitude-for-contributors)
 
 # Introduction
 
