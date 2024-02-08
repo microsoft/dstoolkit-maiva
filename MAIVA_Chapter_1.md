@@ -51,8 +51,8 @@ realize the expected returns from investment in AI. It is not unusual
 to expect 10x return on AI that improves the current processes or over
 50x return on AI that drives new business models. But none of that
 return can be realized if the investment in AI is ‘stuck’ in
-pre-production POC or MVP state. This playbook is designed to suggest
-some best practices for successful AI initiatives at scale.
+pre-production Proof of Concept (PoC) or Minimum Viable Product (MVP) state. 
+This playbook is designed to suggest some best practices for successful AI initiatives at scale.
 
  This playbook will provide:
 
@@ -113,7 +113,7 @@ comprehensive framework to manage AI investments through a cycle of:
   the diamond in the rough, the magic hiding among the muck.
 
 - **Experimentation and learning** are essential to prioritizing the
-  right AI investment ideas. This is where a POC might have some
+  right AI investment ideas. This is where a PoC might have some
   important contributions.
 
 - An **agile, product management** approach to development brings
@@ -121,8 +121,8 @@ comprehensive framework to manage AI investments through a cycle of:
 
 - Remember that value lives in production. If the AI initiative does not
   conclude with **deployment to a production environment**, the intended
-  return cannot be realized. This is not to say that POC’s have no
-  value; rather it is to say that POCs are not the vehicle to ROI.
+  return cannot be realized. This is not to say that PoC’s have no
+  value; rather it is to say that PoCs are not the vehicle to ROI.
 
 - **Scale value** can take considerable time; set expectations properly.
   Sometimes deployment into production is just a first step to global
@@ -132,7 +132,7 @@ comprehensive framework to manage AI investments through a cycle of:
   **feedback loops** between users and developers will drive the
   expected return and keep investments on the intended track.
 
-- **Securing AI** is fundamental to ensure that ROI expectations are not
+- **Securing AI** is fundamental to ensure that Return on Investment (ROI) expectations are not
   adversely impacted by unsecure AI applications that can either be
   misused or that provide compromised responses.
 
@@ -154,7 +154,7 @@ return and mitigate risk and underperformance.
 Companies need a framework through which the portfolio of AI initiatives
 can be prioritized, developed with consistency, and governed
 post-deployment. We think about this framework as *industrializing AI*:
-creating a programmatic approach to ideation, intake, experimentation,
+creating a systemic approach to ideation, intake, experimentation,
 prioritization, development and deployment, and governance and
 performance monitoring.
 
@@ -170,10 +170,10 @@ monitoring to provide feedback loops to developers.
 
 There are many obstacles blocking scale value from AI investments:
 
-- Getting stuck in POC’s that do not get beyond demos. The lesson here
-  is to commit to driving a return from the investment in AI.
-
-- All too often, AI initiatives are built without defining measurable
+- Getting stuck in PoC’s that do not get beyond demos. The lesson here
+  is to commit to driving a return from the investment in AI. 
+  
+- Indeed, all too often, AI initiatives are built without defining measurable
   results for success and without feedback loops from users to
   developers. If performance is not defined and monitored, how can
   anyone know what success looks like? The lesson here is to define,
@@ -190,15 +190,15 @@ There are many obstacles blocking scale value from AI investments:
 
 - Having AI investments entirely controlled within the confines of IT
   means that the business that will be impacted is not involved in
-  ideating, prioritization or in design of the user experience. The
-  lesson here is to partner with the business fully to drive adoption by
-  continuously involving the business throughout the entire process,
+  ideating, prioritization or in the design of the user experience. The
+  lesson here is to fully partner with the business and contionuously involve 
+  the business to drive adoption throughout the entire process,
   from inception to production.
 
 - ‘Shadow’ IT groups within the business cannot deliver optimal
   technical results to the business without access to the enterprise
   infrastructure and platforms. The lesson here is to partner with IT to
-  ensure optimal outcomes and long-term maintenance of the AI product.
+  ensure optimal outcomes and long-term maintenance of AI products.
 
 - Loss of IP, loss of data and harmful outcomes from AI initiatives are
   all significant risks for which mitigation can drive up costs and risk
@@ -277,7 +277,7 @@ The goal of systems thinking is to enable enterprise teams to establish
 a systemic approach to improving business capabilities by deploying and
 operating AI solutions in production and realize value through scale.
 
-## Being a data-driven culture 
+## Adopting a data-driven culture 
 
 Being data-driven is the foundation for leading in the era of AI. Agile
 experimentation leads to successful outcomes because it uses data to
@@ -323,7 +323,7 @@ the positives and challenges faced in that first half of the year.
 
 Part of the AI strategy will include executive sponsorship of the
 portfolio framework to ensure the appropriate involvement across the
-enterprise, to ensure that investments are optimal, and to insure that
+enterprise, to ensure that investments are optimal, and to ensure that
 the expected returns are realized.
 
 Successfully industrializing AI will require an operating model that
@@ -375,11 +375,11 @@ technologies involved:
   sets of data and, therefore, they will rely on the same data strategy.
 
 - The tools that will be required to industrialize AI will drive
-  reporting across the process from intake through deployment process to
-  measuring performance and use of models as well as the return on the
-  business as measured against original targets. Tools required will
-  also include the specific AI technologies to build and deploy models.
-  And, of course, as mentioned the data platform and AI/ML platform will
+  reporting across the process from intake through to deployment.
+  The process will include measuring performance and use of models as well 
+  as the return on investment for the business as measured against original targets. 
+  Tools required will also include the specific AI technologies to build and deploy models.
+  And, of course, as mentioned, the data platform and AI/ML platform will
   be key among the technology required.
 
 There are several policies that should be determined outside of the
@@ -403,7 +403,7 @@ This approach requires a series of nested cycles of experimentation:
 build/deploy - monitor – feedback – use case iteration.
 
 - As each use case is being considered, there may be additional
-  experimentation required to validate return and basic feasibility. The
+  experimentations required to validate return and basic feasibility. The
   output of these small cycles of experimentation will be the proposed
   AI initiatives to consider in the intake process.
 
@@ -445,11 +445,11 @@ consistent; is the data accurate… all will be involved in the scope of
 the use case and iteration through experiments.
 
 As experiments are meant to quickly demonstrate potential value, the AI
-experiments are often POCs built with tools that may not be the tool-of
+experiments are often PoCs built with tools that may not be the tool-of
 choice for an enterprise-scale AI solution. These tools are quicker to
 build on and more flexible because they do not require the same degree
-of risk mitigation and security that an enterprise -scaled AI solution
-would require. This allows rapid experimentation.
+of risk mitigation and security that an enterprise-scaled AI solution
+would require. This allows for rapid experimentation.
 
 ## MAIVA – the AI platform, the data platform, and the data (perpetual data strategy)
 
@@ -490,7 +490,7 @@ The AI platform should be enabled with the following:
 The AI platform may be built around MLOps for Databricks or MLOps for
 Synapse or yet another MLOps capability. Where generative AI is a
 technical capability, LLM Ops will be considerably different and the AI
-platform will need to accommodate this. There is section later in the
+platform will need to accommodate this. There is a section later in the
 playbook that illustrates architectural considerations for MLOps and
 LLMOps.
 
@@ -500,12 +500,12 @@ Value and outcomes from complex AI solutions are dependent upon a
 modernized data platform. Typically, the data platform is not a single
 entity. Indeed, in any given business unit or functional group, there
 are multiple sources of data and multiple stores of data. And, in most
-every business unit, the universe of multiple enterprise apps, multiple
-platforms and multiple sources of data, that complexity will evolve and
-continue to grow more complex. As organic growth occurs, as acquisitions
-occur, as re-organizations occur… the breadth of data sources change,
-leaving the business unit with increasingly complex data space. Now
-multiply this scenario across every business unit and function in the
+business units, there are multiple enterprise apps, multiple
+platforms and multiple sources of data, that continue to grow more complex environment. A
+s organic growth occurs, as acquisitions occur, as re-organizations occur… 
+the breadth of data sources change, leaving the business unit with increasingly 
+complex data space. 
+Now multiply this scenario across every business unit and function in the
 enterprise. It is this built-in complexity that underpins the need for a
 robust data strategy.
 
@@ -629,9 +629,9 @@ value to be gained from a well-defined approach to operationalization;
 the return on use cases will be higher and the costs to scale will be
 optimized.
 
-Operationalization within this framework will involve a standard
+Operationalization within this framework will involve a standardized
 approach to lifecycle management, a common platform for governance and
-monitoring of AI, standard performance and usage monitoring, as well as
+monitoring of AI, standardardized performance and usage monitoring, as well as
 any technical engineering standards that underlie enablement of the use
 case.
 
