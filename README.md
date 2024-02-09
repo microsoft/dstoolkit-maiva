@@ -3,7 +3,7 @@
 <img src="./media/graphic 4- 2024-01-25 .png"  style="width:6.5in;height:3.64653in"
 alt="Overview of Microsoft AI Value Accelerator" />
 
-**[Chapter 1 Overview](./MAIVA_Chapter_1.md)**
+## [Click here to read Chapter 1](./MAIVA_Chapter_1.md) ##
 
 > This repository hosts the first chapter of a playbook dedicated to helping company IT departments effectively scale their AI initiatives. The playbook aims to provide a structured guide on managing AI investment
 > portfolios to maximize returns. It introduces a framework for industrializing AI within organizations and sets the groundwork for more detailed and technical discussions in future chapters.
