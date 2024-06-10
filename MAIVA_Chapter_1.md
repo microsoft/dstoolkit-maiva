@@ -1237,6 +1237,7 @@ contributions and oversight of this effort!
 - Kimberly O'Donoghue
 - Ricardo Sousa
 - Sofia Noejovich
+- Mike Swantek
 - Erica Lawrie
 - Karsten Strøbæk
 - Rick Hines
