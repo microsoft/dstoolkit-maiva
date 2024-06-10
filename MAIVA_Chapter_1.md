@@ -496,57 +496,69 @@ LLMOps.
 
 **Data Platform**
 
-Value and outcomes from complex AI solutions are dependent upon a
-modernized data platform. Typically, the data platform is not a single
-entity. Indeed, in any given business unit or functional group, there
-are multiple sources of data and multiple stores of data. And, in most
-business units, there are multiple enterprise apps, multiple
-platforms and multiple sources of data, that continue to grow more complex environment. A
-s organic growth occurs, as acquisitions occur, as re-organizations occur… 
-the breadth of data sources change, leaving the business unit with increasingly 
-complex data space. 
-Now multiply this scenario across every business unit and function in the
-enterprise. It is this built-in complexity that underpins the need for a
-robust data strategy.
+Value and outcomes from complex AI solutions are dependent upon a modernized data platform. Typically, the data platform is not a single entity. Indeed, in any given business unit or functional group, there are multiple sources of data and multiple stores of data. And, in most business units, there are multiple enterprise apps, multiple platforms and multiple sources of data, that continue to grow more complex environment. As organic growth occurs, as acquisitions occur, as re-organizations occur, the breadth of data sources change, leaving the business unit with increasingly complex data space. 
+Now multiply this scenario across every business unit and function in the enterprise. It is this built-in complexity that underpins the need for a robust data strategy.
 
-Industrializing AI will require a governed platform and a strategy to
-manage complex data. Data modernization within a platform to serve AI is
-the foundational requirement of MAIVA.
+Industrializing AI will require a governed platform and a strategy to manage complex data. Data modernization within a platform to serve AI is the foundational requirement of MAIVA.
 
 **Data Strategy**
 
-Data is the currency of business processes. As such, data should be seen
-as an enabler of business outcomes. An effective data strategy will
-focus on the line of business and its core processes. Executing the data
-strategy will free data to harness the power of AI, foster innovation
-through business use case enablement, and enable core capabilities.
+A robust data management and governance capability is crucial for leveraging AI technologies and gaining a competitive edge through an AI-driven transformation. This capability spans people, process, and platform (technology). Therefore, an organization's data strategy should reflect this comprehensive approach. In the context of AI, an organization's data strategy should:
+- Focus on clearly identified high-impact business outcomes and AI use cases.
+- Iteratively enhance data handling across people, process, and platform (**the three P’s to success**) with a systems-thinking approach, focusing on holistic and progressive improvement.
+- Keep in mind that AI transformation with a data-driven operation is a long-term process that requires patience, resilience, and sustained focus.
 
-One of the most significant obstacles to enabling AI is legacy data
-estates. An actionable data strategy will modernize the data estate and
-support the industrialized value from AI at scale. An effective data
-strategy starts from the business use case(s), modernizes the data
-required in the business process and then scales.
+Data strategy is essential to successfully industrialize AI, bringing together People, Process and Platform to harness data's full potential for innovation and growth, not as a byproduct of, but instead, the driving force for innovation and growth.  
 
-To drive scale outcomes, data should be seen as a product. Data should
-be consistent, secure, meaningful, re-usable, repeatable, versioned and
-controlled centrally. Business users should be free to understand,
-access and use data to rapidly create business value with data as a
-service. To do this a data platform is required at the line of business
-level.
+<img src="./media/graphic 22-2024-06-10.png" 
+alt="Figure 1. Framework to generate business value from data" />
 
-This is the data strategy implemented in Microsoft’s Finance
-organization and they’ve called it ‘disciplined at the core, flexible at
-the edges’: govern and control the data while enabling the business
-users to use the data to drive innovation and value. This strategy
-reflects that the driving force of data is giving power to the users and
-control to the data owners.
 
-> *Disciplined at the core* : Data storage is either centralized or
-> de-centralized with common security, quality and operational and
-> governance rules ensuring data is reliable.
->
-> *Flexibility at the edge:*  business users can create their own data products, using configurable and reusable services or simply consume
-> this data to solve business problem and address new opportunities.
+## People
+The People pillar of Data Strategy aims to create an environment where data and AI are not just tools but are central to the organization's culture and a way of operating. It's about creating a culture that values data, embraces AI, and prioritizes continuous learning and adaptation. An intelligence-driven culture leverages data and AI as core to operations, prizes data as a valuable resource, promotes making it widely accessible across the organization and actively utilizing it to inform decisions. It also promotes integration of AI technologies into various workflows, using AI to automate repetitive tasks, enhance human capabilities, and generate actionable insights.
+
+An intelligence-driven culture is characterized by its emphasis on a data-centric approach. This approach prioritizes data collection, analysis, and utilization in decision and action taking. It ensures that data is not just considered valuable but is also made readily available to all levels within the organization. This availability of data is crucial to making informed decisions. By ingraining data-driven insights into decision-making processes, an organization can foster a culture that is truly intelligence-driven.
+
+AI integration is another key aspect of an intelligence-driven culture. In such a culture, AI technologies are not standalone tools but are integrated seamlessly into various aspects of the organization's operations. AI is used to automate tasks, augment human capabilities, and generate valuable insights. Through this approach, organizations can leverage AI to gain a competitive advantage, improve performance, and foster growth.
+
+Another critical aspect of an intelligence-driven culture is its focus on continuous learning and adaptation. Such a culture encourages experimentation, learning from failures, and iterative improvement based on data-driven feedback. An intelligence-driven culture understands that transformation is not a one-time event but an ongoing journey. By fostering a culture of continuous learning, organizations can become more resilient and adaptable, thriving in an environment that is increasingly data-driven and intelligence-centric.
+
+## Process
+The Process pillar of Data Strategy should focus on the objective of centrally governing data but with federated aspects for business and AI agility. The design should aim to remove bottlenecks with data lifecycle management and enabling appropriate data access. Several critical processes need to be considered in this context, these include data lifecycle management, which oversees data from collection to disposal; data lineage, ensuring traceability and transparency; data classification, data quality, and data product ownership - to maintain data integrity and reliability; Data Security Operations management, protecting data from threats; continuous review and alignment, ensuring data strategies remain relevant and aligned with business goals; and cost management, tracking and managing the costs associated with data. Collectively, these processes support the creation of an intelligence-driven culture where data and AI are integral to the organization’s operational fabric, driving business outcomes.
+
+## Platform
+The Platform pillar of a successful Data Strategy should prioritize scalability and the provisioning of shared enterprise services that support self-service automation. This requires a robust technology solution that integrates a data analytics platform with Machine Learning and AI.
+A fundamental quality of this pillar is flexibility, particularly in terms of interoperability with various data sources and connectors. This allows for easy integration with a wide array of data systems, both common and bespoke. It's essential that the platform enables data visualization, discovery, and business intelligence, and is compatible with DevOps and associated automation processes.
+The platform should scale with the growth of the organization and workloads, managing increasing data volumes and complexity without compromising performance, functionality, or security. The platform should enable a federated data product approach to mitigate challenges around resourcing and team capacity.
+
+## What to Consider when Establishing or Modernizing a Data Strategy
+This section will explore the main elements of a data strategy as they manifest within each of the three essential pillars: People, Process, and Platform. The goal is to provide some insights on how to develop organizational capacity with Data and AI. These elements are data acumen, data governance and operations, federated compute, shared services, data sources and enterprise services. 
+
+<img src="./media/graphic 23-2024-06-10.png" 
+alt="Figure 2. Conceptual architecture of an Enterprise Data Strategy, encompassing People, Process and Platform" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## MAIVA – Develop, Deploy & Operationalize AI/ML Use Case
 
