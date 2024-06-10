@@ -537,7 +537,42 @@ This section will explore the main elements of a data strategy as they manifest 
 <img src="./media/graphic 23-2024-06-10.png" 
 alt="Figure 2. Conceptual architecture of an Enterprise Data Strategy, encompassing People, Process and Platform" />
 
+## Data Acumen
+Data acumen is a crucial skill set for any organization aspiring to leverage Artificial Intelligence for business growth and innovation. It is the collective proficiency in understanding and applying data-related concepts and skills, spanning from foundational knowledge to domain-specific insights.
+Developing a robust data acumen within an organization involves multiple facets, each contributing to the overall capacity to harness data effectively. It's not just about understanding the technical aspects of data management; it's about how data can influence business decisions and drive organizational growth.
 
+Building data acumen within an organization requires a strategic and comprehensive approach. Here are some key initiatives to build data acumen:
+1. To build **Foundational Concepts and Skills** ensure team members understand data terminology, structures, and formats. Teach them fundamental statistical concepts and ethical considerations related to data and AI usage. 
+1. Advanced **Technical Competencies** to equip teams with the tools and skills they need to manipulate and visualize data effectively. This may involve technical training for data extraction, transformation, and loading (ETL) as well as for creating meaningful data visualizations. Familiarize them with cloud platforms for data storage, processing, and analytics.
+1. Foster **Domain-Specific Knowledge** for your industry, the business processes, and the role data plays in decision making.
+1. Promote a culture that values **Data-Based Decision Making**. Teach team members how to formulate hypotheses, design experiments, and analyse results.
+1. Encourage cross-functional communication and **collaboration** to break down silos and ensure that data insights are shared and acted upon across the organization.
+1. Foster **Continuous Learning** and curiosity about emerging technologies, tools, and best practices.
+1. As AI becomes more prevalent, it's important to understand its ethical implications. Embed **Responsible AI**, considering factors like fairness, transparency, and bias.
+
+## Data Governance and Operations
+Data governance and operations play a pivotal role in managing the availability, usability, integrity, and security of the data used in an organization. This comprises of establishing standards, policies, and processes to ensure data is managed in a consistent, secure, and compliant manner.
+the "data product" is a trusted, reusable data asset, registered and catalogued. A **Data Product mindset** involves defining clear roles such as data product owners (Data Publishers), data owning teams (Data Producers), and data consumers. By treating data as a product, businesses can focus on high-impact business use cases, package data for easy comprehension and usage, reduce compliance and user access risks, control data sprawl and costs, and maintain trust with stakeholders.
+To build a strong data governance and operations capability, the following key areas need to be addressed:
+
+1. **Data mapping** tools offer a visual representation of the data landscape, showing the flow from source to target systems. **Lineage** tools track data from its origin through transformations, helping identify dependencies and impacts of changes in the data structure.
+1. Tools to ensure **Data Quality**:  accuracy, completeness, and consistency of data are crucial. These provide capabilities like data profiling, cleansing, validation, matching, and monitoring.
+1. **Compliance** tools to ensure alignment with legal, contractual, and business rules automate the process of compliance checking and reporting.
+1. Tools enforcing **access and security** controls, ensuring data privacy, and protection against data breaches are integral. These may include encryption tools, intrusion detection systems, and identity and access management solutions.
+1. Tools to collect, organize, and display data about data (**metadata**) help make data more understandable and usable.
+1. A searchable repository (**Data Catalog**) of data products makes it easier to find and understand data. These tools typically provide metadata, usage information, and data samples.
+1. Tools to manage the flow of data through its lifecycle (**Data Lifecycle** (DLM)), from creation and initial storage to obsolescence and deletion. These tools provide capabilities like data classification, retention, archiving, and deletion.
+
+## Federated Compute
+Federated Compute is a computational capacity that enables data distribution and processing across various systems or locations while retaining centralized control. It achieves this by bringing computation to the data, a significant shift from the traditional model of moving data to computation. This method proves advantageous in big data applications, such as Machine Learning and Analytics, where data transfer can be expensive and time-consuming. Data APIs facilitate this process, serving as connectors between various data sources and computing nodes, thus enabling efficient access, processing, and utilization of data across different systems and locations.
+Designing or modernising a data platform with federated compute involves several key considerations:
+1. With federated compute, data remains at its source, which can help in meeting data privacy regulations. However, it's critical to ensure that any computations or transformations performed don't inadvertently compromise data privacy. Security measures should be in place to protect the data during computation.
+1. Organization needs a robust and reliable network infrastructure to facilitate efficient data communication between different nodes in a federated computing setup. Any network latency or downtime can significantly impact the performance of transformation pipelines, analytical tools, and ML/AI services.
+1. A well-defined data governance policy is essential to manage data access, usage, and quality. This is especially important in a federated environment where data is distributed across multiple locations.
+1. The system should be designed to handle growth in data volume, velocity, and variety.
+1. The components of the federated compute system should be interoperable, meaning they can work together seamlessly. This includes transformation pipelines, analytical tools, and ML/AI services, which need to be able to access and process data from various sources.
+1. The organization needs to possess or develop the necessary skillsets to implement and manage federated compute environments. This includes understanding of distributed computing, data privacy and security, and the specific tools and platforms being used.
+1. The selection of tools and platforms for transformation pipelines, analytical services, and ML/AI services is important. These tools should support federated computing, be scalable, and be easy to integrate with existing systems.
 
 
 
