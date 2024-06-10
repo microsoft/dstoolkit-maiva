@@ -591,26 +591,35 @@ Data Sources are the repositories of information that feed into the AI-driven da
 ## Enterprise Services
 Enterprise Services are the operations and infrastructure within any organization aiming to leverage data for AI-based innovation and growth. These services include DevOps, a practice that combines development and operations to shorten the system development life cycle and provide continuous delivery with high software quality. CI/CD/CT, or Continuous Integration, Continuous Delivery, and Continuous Testing, which are practices designed to improve and expedite the software delivery process. Identity Services, which ensure secure and efficient user access management across the organization. Operational Monitoring and Logging, to oversee system performance, identify issues, and maintain a comprehensive record of system activities for troubleshooting and analysis. Security Services, to protect sensitive information and systems from cyber threats, ensuring data integrity and availability. Enterprise Services underpin not only the Data Platform, but also other technical platforms within an enterprise, they are fundamentally important for data-driven innovation.
 
+## Data Product Mindset
+Adopting a data product mindset is key.  Adopting a product mindset is important to the success of an enterprise data strategy because it helps accelerate the adoption and scale of AI. A data product is a trusted, reusable data asset that empowers users with an intelligence-driven culture.  
+It requires data product owners (Data Publishers) who are responsible for defining objectives and key results for the product.  It requires data owning team(s), producers that execute on the plan with an agile approach and lastly data consumers who use these data products to create business value. By treating data as a product, businesses can focus their data initiatives on clearly identified high-impact business use cases, and organize, structure, and package data in a way that makes it easy to understand, analyse, and use. This helps to reduce clutter and compliance risk, promote data engineering reuse, control data sprawl and cost, and maintain trust with customers, partners, and employees. 
+One example of a data product is a customer analytics report that provides insights into customer behaviour and preferences. This data product would be a logical entity that draws relationships to data and other metadata, is made available for broad consumption, and is aligned to the domain of business functions and goals. It is optimized for readability, decoupled from the operational/transactional application, and adheres to central interoperability standards. A data product mindset is essential in building a strong foundation for data-driven decision making and innovation. 
 
+## Operationalize 
+In this era of AI, companies need to change the way they operate and have systems thinking underpinning the culture. They need to have data and AI acumen and become stewards of the data.  They need a data strategy to generate business value from their data. They need to make data & analytics a permanent discipline that sits in the business and, as is the case with their AI strategy, they need strong leadership with a clear mandate on how we will succeed.  It's not just about collecting data but having a plan to fully harness its potential. 
+As we navigate this transformative era, remember that data is not just a resource, but a strategic imperative in the realm of AI.  A clear data strategy that is centered on business use case enablement is crucial for companies to become data driven in this AI-driven world. 
 
+## Logical architecture for modern data platform
+<img src="./media/graphic 24-2024-06-10.png" 
+alt="Figure 3. Logical data architecture image" />
 
+This architecture is designed to be federated, meaning that each Data Landing Zone operates semi-autonomously, yet under a common set of governance and operational principles. To ensure quality and reliability, each zone follows a medallion (bronze, silver, and gold) architecture, with each level signifying a higher degree of data maturity and trustworthiness.
+In this model, the Shared Services Data Landing Zone acts as the central hub for integration with primary data sources. In contrast, Domain Landing Zones consume data products from the Shared Services Zone and transform or enrich these products according to specific domain requirements. This approach allows each domain to produce its own derivative data products, including experiments, reports, models, and more.
+It's important to note that the logical architecture described here is technology-agnostic. The aim is to provide a flexible framework that can be realized using a variety of technologies, depending on the unique needs and existing infrastructure of each organization.
 
+## Business Outcomes and Use Cases
 
+Start with well-defined business problem and then identify the AI use cases that will solution the problem and measure their impact. Use Objectives and Key Results (OKRs) to define the vision, success factors, and stakeholders for each use case. Assess the current and desired data estate and identify the people, process, and platform capabilities needed to enable the use cases. This shows the gaps and opportunities to develop a roadmap for the capability plan that supports the company's strategy.
+Use a data strategy framework to guide the data capabilities design. Focus on the use case-specific needs rather than generic solutions to avoid scope and cost mismatches. For example, address data quality issues within the use case context rather than broadly.
+Create a data strategy working group to coordinate data activities across the organization. This group should include experts, stakeholders, and representatives from relevant business units and teams who work together and have clear responsibilities and outcomes.
+Instead of a data Center of Excellence (COE), be a center of enablement. Learn from each use case and apply the lessons to the next one.
+Representatives from the MAIVA Governance Council should be present in this working group, at a minimum the Chief Data Scientist. Likewise, representatives from this group should be present on the MAIVA Governance Council to drive the development and execution of data-related activities and initiatives, being the champions for common programs which focus on shaping and implementing strategies related to data management, usage, and governance. 
 
+ 
+A data strategy needs to be a gradual and flexible journey that prioritizes outcomes over perfection, and aligns people, process and platforms to unleash the power of data for innovation and growth.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+AI is a major transformation that depends on showing the business value of not only AI but also the data that powers it. To scale up AI, you need to build value from the data that drives it.
 
 ## MAIVA – Develop, Deploy & Operationalize AI/ML Use Case
 
