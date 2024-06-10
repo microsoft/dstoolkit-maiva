@@ -573,6 +573,23 @@ Designing or modernising a data platform with federated compute involves several
 1. The components of the federated compute system should be interoperable, meaning they can work together seamlessly. This includes transformation pipelines, analytical tools, and ML/AI services, which need to be able to access and process data from various sources.
 1. The organization needs to possess or develop the necessary skillsets to implement and manage federated compute environments. This includes understanding of distributed computing, data privacy and security, and the specific tools and platforms being used.
 1. The selection of tools and platforms for transformation pipelines, analytical services, and ML/AI services is important. These tools should support federated computing, be scalable, and be easy to integrate with existing systems.
+1. The performance of the Federated Compute system should be monitored and optimized regularly.
+
+## Shared Services
+Shared Services are key data estate services that are managed centrally and assist with creating, launching, and administering applications and data in a data platform setting. They help organizations simplify data management processes, eliminate duplication, and make data use more efficient and effective by providing common tasks and services, leveraging best practices and methods.
+The key Shared Services that should be considered when establishing or modernising a data platform are listed below:
+1. **Self-Service Metadata-Driven Ingestion** to enable automated, metadata-driven data ingestion, reducing the need for manual coding and simplifying the process of data ingestion for data engineers and other users.
+1. **Data Standardization** to ensure that data is converted into a common format, making it easier to leverage across the organization. This may involve operations like converting data to common units, standardizing number of decimal places etc.
+1. **Data Merging** to combine data from different sources into a single, unified view, providing a more complete and accurate picture of the data.
+1. **Data Intelligence** as a way of using AI and machine learning to enrich the data and provide insights.
+1. **Enterprise data models** to provide high-level representations of an organization's data in 3nf, helping to facilitate data management tasks such as data integration, data governance, and data quality.
+1. **Data Products** to provide trusted, curated data assets that are built within the data platform, such as datasets, tables, reports, predictive models, and AI-powered applications. These data products will be cataloged for easy discovery and re-use.
+
+## Data Sources
+Data Sources are the repositories of information that feed into the AI-driven data strategy. These repositories, whether they exist on-premises or in the cloud, provide diverse types of data ranging from transactional, historical, or master data, which can be harnessed for AI applications. They can be structured in various formats such as Data Lakes, Data Warehouses, Data Marts, Lake Houses or File Shares, each offering different data storage and processing capabilities. Data sources may also be exposed through REST API (often used for SaaS applications), or via message-oriented sources (such as Message Queues or Publish-Subscribe Systems) for near/real-time data streaming applications. Careful consideration of what data should be ingested into the datalake should be taken, landing only the data that will help solve the use case. 
+
+## Enterprise Services
+Enterprise Services are the operations and infrastructure within any organization aiming to leverage data for AI-based innovation and growth. These services include DevOps, a practice that combines development and operations to shorten the system development life cycle and provide continuous delivery with high software quality. CI/CD/CT, or Continuous Integration, Continuous Delivery, and Continuous Testing, which are practices designed to improve and expedite the software delivery process. Identity Services, which ensure secure and efficient user access management across the organization. Operational Monitoring and Logging, to oversee system performance, identify issues, and maintain a comprehensive record of system activities for troubleshooting and analysis. Security Services, to protect sensitive information and systems from cyber threats, ensuring data integrity and availability. Enterprise Services underpin not only the Data Platform, but also other technical platforms within an enterprise, they are fundamentally important for data-driven innovation.
 
 
 
