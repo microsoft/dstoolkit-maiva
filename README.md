@@ -4,8 +4,9 @@
 alt="Overview of Microsoft AI Value Accelerator" />
 
 ## [Click here to read Chapter 1](./MAIVA_Chapter_1.md) ##
+## [Click here to read Chapter 2](./MAIVA_Chapter_2.md) ##
 
-> This repository hosts the first chapter of a playbook dedicated to helping company IT departments effectively scale their AI initiatives. The playbook aims to provide a structured guide on managing AI investment
+> This repository hosts a playbook dedicated to helping company IT departments effectively scale their AI initiatives. The playbook aims to provide a structured guide on managing AI investment
 > portfolios to maximize returns. It introduces a framework for industrializing AI within organizations and sets the groundwork for more detailed and technical discussions in future chapters.
 
 **Highlights:**
@@ -13,6 +14,10 @@ alt="Overview of Microsoft AI Value Accelerator" />
 - Introduction to the playbook's purpose and structure.
 - Overview of the framework for industrializing AI.
 - Scope definition for scaling AI initiatives within companies.
+- The importance of a robust data management and governance capability.
+- Creating an intelligence-driven culture, centrally governed data processes with federated aspects.
+- Scalable technology solutions supporting self-service automation and data integration.
+- Data strategy centered on business use cases, leveraging AI, and building organizational capacity with a focus on continuous learning and adaptation.
 
 This playbook will be made available to through GitHub as a guide to any company endeavoring to manage the AI investment portfolio to optimize return on those investments. The playbook will be published in multiple chapters of increasing depth and detail. Each chapter will be published to a separate github repo, making its maintenance manageable. This first chapter sets the stage and scope for a framework to industrialize AI. Subsequent chapters will take on the technical depth of architecture (both AI platform and data platform), security, responsible AI, and so on.
 
