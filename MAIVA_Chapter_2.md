@@ -1,4 +1,4 @@
-**Data Strategy**
+# Data Strategy
 
 A robust data management and governance capability is crucial for leveraging AI technologies and gaining a competitive edge through an AI-driven transformation. This capability spans people, process, and platform (technology). Therefore, an organization's data strategy should reflect this comprehensive approach. In the context of AI, an organization's data strategy should:
 - Focus on clearly identified high-impact business outcomes and AI use cases.
