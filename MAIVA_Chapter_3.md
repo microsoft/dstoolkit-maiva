@@ -1,4 +1,4 @@
-# Table of Contents
+# MAIVA - Security Table of Contents
 
 [Introduction to MAIVA Security](#introduction-to-maiva-security)
 
