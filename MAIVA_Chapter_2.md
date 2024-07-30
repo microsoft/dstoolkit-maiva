@@ -1,4 +1,4 @@
-## MAIVA - Data Strategy Table of Contents
+# MAIVA - Data Strategy Table of Contents
 
 [Data Strategy Overview](#Data-Strategy)
 - [People](#People)
