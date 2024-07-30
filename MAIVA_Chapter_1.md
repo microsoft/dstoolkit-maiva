@@ -1,7 +1,4 @@
-<p><img src="./media/Titel Graphic.png" 
-alt="A screen shot of a computer Description automatically generated" /></p>
-
-## MAIVA - Framework Table of Contents
+# MAIVA - Framework Table of Contents
 
 [Introduction](#introduction)
 
