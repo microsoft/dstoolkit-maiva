@@ -4,7 +4,7 @@
 alt="Overview of Microsoft AI Value Accelerator" />
 
 # [Chapter 1 - MAIVA Framework](./MAIVA_Chapter_1.md) #
-# [Chapter 2 - Data Strategy](./MAIVA_Chapter_2.md) #
+# [Chapter 2 - MAIVA Data Strategy](./MAIVA_Chapter_2.md) #
 # [Chapter 3 - MAIVA Security](./MAIVA_Chapter_3.md) #
 
 > This repository hosts a playbook dedicated to helping company IT departments effectively scale their AI initiatives. The playbook aims to provide a structured guide on managing AI investment
