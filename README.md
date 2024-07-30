@@ -5,6 +5,7 @@ alt="Overview of Microsoft AI Value Accelerator" />
 
 # [Chapter 1 - MAIVA Framework](./MAIVA_Chapter_1.md) #
 # [Chapter 2 - Data Strategy](./MAIVA_Chapter_2.md) #
+# [Chapter 3 - MAIVA Security](./MAIVA_Chapter_3.md) #
 
 > This repository hosts a playbook dedicated to helping company IT departments effectively scale their AI initiatives. The playbook aims to provide a structured guide on managing AI investment
 > portfolios to maximize returns. It introduces a framework for industrializing AI within organizations.
@@ -18,6 +19,9 @@ alt="Overview of Microsoft AI Value Accelerator" />
 - Creating an intelligence-driven culture, centrally governed data processes with federated aspects.
 - Scalable technology solutions supporting self-service automation and data integration.
 - Data strategy centered on business use cases, leveraging AI, and building organizational capacity with a focus on continuous learning and adaptation.
+- Security framework and integration
+- Security during each stage of the MAIVA framework
+- Responsible AI
 
 This playbook will be made available to through GitHub as a guide to any company endeavoring to manage the AI investment portfolio to optimize return on those investments. The playbook will be published in multiple chapters of increasing depth and detail. Each chapter will be published to a separate github repo, making its maintenance manageable. This first chapter sets the stage and scope for a framework to industrialize AI. Subsequent chapters will take on the technical depth of architecture (both AI platform and data platform), security, responsible AI, and so on.
 
