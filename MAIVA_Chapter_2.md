@@ -1,3 +1,22 @@
+## Table of Contents
+
+[Data Strategy Overview](#Data-Strategy)
+- [People](#People)
+- [Process](#Process)
+- [Platform](#Platform)
+- [What to Consider when Establishing or Modernizing a Data Strategy](#What-to-Consider-when-Establishing-or-Modernizing-a-Data-Strategy)
+- [Data Acumen](#Data-Acumen)
+- [Data Governance and Operations](#Data-Governance-and-Operations)
+- [Federated Compute](#Federated-Compute)
+- [Shared Services](#Shared-Services)
+- [Data Sources](#Data-Sources)
+- [Enterprise Services](#Enterprise-Services)
+- [Data Product Mindset](#Data-Product-Mindset)
+- [Operationalize](#Operationalize)
+- [Logical architecture for modern data platform](#Logical-architecture-for-modern-data-platform)
+- [Business Outcomes and Use Cases](#Business-Outcomes-and-Use-Cases)
+
+
 # Data Strategy
 
 A robust data management and governance capability is crucial for leveraging AI technologies and gaining a competitive edge through an AI-driven transformation. This capability spans people, process, and platform (technology). Therefore, an organization's data strategy should reflect this comprehensive approach. In the context of AI, an organization's data strategy should:
